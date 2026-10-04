@@ -1,0 +1,5 @@
+a = int(input("enter the value of a = "))
+b = int(input("enter the value of b = "))
+print("a is great than b - ", a > b)
+print("b is greater than a - ", b > a)
+print("a is equal to b - " ,a == b)

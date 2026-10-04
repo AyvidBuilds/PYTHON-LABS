@@ -1,0 +1,6 @@
+a = int(input("enter your age = "))
+b = int(input("enter your friend's age = "))
+print("your elder than your friend " , a > b)
+print("your friend is elder than you " , b > a)
+print("both of you are of same age ", a == b)
+print("your friend's age is not the same as your ", a != b)
